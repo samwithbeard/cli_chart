@@ -10,3 +10,4 @@ Gauge plot:
 Line plot:
 ▃██▄▂▁▂▄██▄▁▁▃▅█▅▃▁▁
 
+<img width="1224" height="322" alt="image" src="https://github.com/user-attachments/assets/9814e0f7-c413-48b7-9c07-a9c8080b51ec" />
