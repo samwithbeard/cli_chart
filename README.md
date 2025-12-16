@@ -3,7 +3,10 @@ Mainly sparklines as proposed by edward tufte.
 
 Pie chart:
 ██░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓ total=100 10(10.0%) 20(20.0%) 70(70.0%) pie-label
+
 Gauge plot:
 ███████████████░░░░░ 75 [km/h] test
+
 Line plot:
 ▃██▄▂▁▂▄██▄▁▁▃▅█▅▃▁▁
+
